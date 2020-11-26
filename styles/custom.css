@@ -10,6 +10,7 @@
 }
 p.venue {
   font-style: italic;
+  line-height: 1.5;
 }
 
 ul.inline li {
